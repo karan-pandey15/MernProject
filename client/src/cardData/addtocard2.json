@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "CategoryName":"Biryani/Rice",
+        "name":"Chicken Fried Rice",
+        "img":"https://tse4.mm.bing.net/th?id=OIP.CpLQgkIRdyUy1TacJqLbBQAAAA&pid=Api&P=0",
+        "options": [
+            {
+                "half": "130",
+                "full": "220"
+            }
+            
+        ],
+        "description" :" Made useing indian masala and rice"
+    }
+
+,{
+    
+        "id":2,
+        "CategoryName":"Biryani/Rice",
+        "name":"Veg Fried Rice",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.cq7ePfHqhwIXrLk7hJKWvgHaGK&pid=Api&P=0",
+        "options": [
+            {
+                "half": "60",
+                "full": "120"
+            }
+        ],
+        "description" :" Made useing indian masala , veg  and rice"
+    }
+
+    ,{
+        
+        "id":3,
+        "CategoryName":"Starter",
+        "name":"Maggi",
+        "img":"https://tse1.mm.bing.net/th?id=OIP.PBCarcUR_ORq7DOXos5lzwHaHb&pid=Api&P=0",
+        "options": [
+            {
+                "half": "30",
+                "full": "50"
+            }
+        ],
+        "description" :" Made useing maggi masala and veg"
+    }
+
+    ,{
+        
+        "id":4,
+        "CategoryName":"Starter",
+        "name":"Samosa",
+        "img":"https://tse3.mm.bing.net/th?id=OIP.XJKPv4lyFnNpFkjNC87PjgHaHa&pid=Api&P=0",
+        "options": [
+            {
+                "half": "30",
+                "full": "60"
+            }
+        ],
+        "description" :" Made using floar and potato surve with sweet catchup"
+    }
+
+    ,{
+        
+        "id":5,
+        "CategoryName":"Pizza",
+        "name":"Chilli Pizza",
+        "img":"https://tse3.mm.bing.net/th?id=OIP.ggrPuuHKyG-zPJbC5XbODAHaE8&pid=Api&P=0",
+        "options": [
+            {
+                "regular":"120",
+                "medium":"230",
+                "large":"300"
+            }
+        ],
+        "description" :"A great taste in chilli peper"
+    }
+
+    
+    ,{
+        
+        "id":6,
+        "CategoryName":"Pizza",
+        "name":"Chilli Paneer",
+        "img":"https://tse3.mm.bing.net/th?id=OIP.0IWjxnbX0nL94UbBZhX4TAHaFj&pid=Api&P=0",
+        "options": [
+            {
+                "regular":"120",
+                "medium":"230",
+                "large":"300"
+            }
+        ],
+        "description" :"A great taste in chilli paneer with sweet catchup"
+    }
+    ,{
+        
+        "id":7,
+        "CategoryName":"Pizza",
+        "name":"Chilli Mashroom",
+        "img":"https://tse3.mm.bing.net/th?id=OIP.0IWjxnbX0nL94UbBZhX4TAHaFj&pid=Api&P=0",
+        "options": [
+            {
+                "regular":"100",
+                "medium":"200",
+                "large":"280"
+            }
+        ],
+        "description" :"A great taste in chilli Mashroom with sweet catchup"
+    }
+
+]

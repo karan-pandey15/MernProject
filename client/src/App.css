@@ -1,0 +1,59 @@
+Nav .linkStyle{
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  font-family: sans-serif;
+  margin: 20px 23px;
+  text-align: center;
+  font-size: 1.5rem;
+
+}
+.bgColor{
+  background-color: #e0074c;
+}
+.footer1{
+  position: fixed;
+  bottom: 0;
+}
+#carousel{
+  /* max-height: 500px; */
+  height: 50vh;
+  object-fit: contain;
+}
+
+#carousel img{
+   object-fit: contain;
+}
+.centerDiv{
+   display: flex;
+   justify-content: center;
+   margin: auto;
+}
+.imgStyle{
+  height: 200px;
+  /* width: 285px; */
+  object-fit: fill;
+}
+.centerCart{
+  /* display: flex; */
+  color: #ff004f;
+  margin-left: 40px;
+}
+.cp{
+  cursor: pointer;
+}
+@media screen and (max-width:500px){
+
+  #carousel{
+    height: 20vh;
+  }
+  
+
+  .centerCart{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    margin-left: 0;
+  }
+}
+
